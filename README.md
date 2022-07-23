@@ -20,4 +20,4 @@ Donwload the necessary jar files:
 
 Fourth:
 add them as a library in the classpath of the project
-click-reight on the file project >Build path > configure Bild path > Java Build Path > Libraries > classpath > add external JARs > Apply and close.
+- click-reight on the file project >Build path > configure Bild path > Java Build Path > Libraries > classpath > add external JARs > Apply and close.
