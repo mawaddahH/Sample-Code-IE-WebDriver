@@ -23,7 +23,9 @@ Add them as a library in the classpath of the project
 - click-reight on the file project >Build path > configure Bild path > Java Build Path > Libraries > classpath > add external JARs > Apply and close.
 
 Output:
-<img src="https://user-images.githubusercontent.com/48597284/180613001-c17f20b6-2174-4684-b641-6cef8997d1c9.png" width=50% height=50%>
+
+
+<img src="https://user-images.githubusercontent.com/48597284/180613001-c17f20b6-2174-4684-b641-6cef8997d1c9.png" width=80% height=80%>
 
 <img src="https://user-images.githubusercontent.com/48597284/180613187-c1480af9-c96d-47a0-8636-22fb394ca8fe.png" width=50% height=50%>
 
