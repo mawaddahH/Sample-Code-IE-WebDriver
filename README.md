@@ -13,7 +13,7 @@ Second:
 
 
 Third:
-Donwload the necessary jar files:
+Donwload the necessary jar files.
 - Selenium (Lastest) https://www.selenium.dev/downloads/
 - TestNG (Lastest) http://www.java2s.com/Code/Jar/t/Downloadtestng685jar.htm
 - commander (Lastest) http://www.java2s.com/Code/Jar/j/Downloadjcommanderjar.htm
