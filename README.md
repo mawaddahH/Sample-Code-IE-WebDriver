@@ -1,8 +1,15 @@
 # Sample-Code-IE-WebDriver
 Assignment 1 W7D4 - SDA - Software QA Bootcamp
 
+# Question
+Write a simple program in Java using selenium to evoke IE Browser.
+
+
+# Answer
 Because the IE browser was stopped,
 # I decided to use Microsoft Edge Driver.
+
+Before running the code, there are some steps that need to take considered:
 
 First:
 Setup Latest Driver for Microsoft Edge Driver.
